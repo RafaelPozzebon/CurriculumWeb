@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    body{
+    background-color: rgb(39, 10, 10);
+    color: dimgray;/*Cor da fonte*/
+    }
+    nav{
+    background-color: azure;
+    margin: 20px 20px;
+    }
+    nav p{
+        text-align: center;
+        color: aquamarine;
+        font-size: 30pt;
+        font-weight: bold;
+    }
+    nav p span{
+        padding: 0px 40px 0px 40px;
+    }
+  
